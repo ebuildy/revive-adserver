@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c37b8e7a-0f2b-4865-bb83-aeb3e818f026" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/lib/vendor/wikimedia/composer-merge-plugin" />
+      <path value="$PROJECT_DIR$/lib/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/lib/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/lib/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/lib/vendor/league/flysystem-ziparchive" />
+      <path value="$PROJECT_DIR$/lib/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/lib/vendor/jeremykendall/php-domain-parser" />
+      <path value="$PROJECT_DIR$/lib/vendor/figdice/asseteer" />
+      <path value="$PROJECT_DIR$/lib/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/lib/vendor/sinergi/browser-detector" />
+      <path value="$PROJECT_DIR$/lib/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/lib/vendor/maxmind-db/reader" />
+      <path value="$PROJECT_DIR$/lib/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/lib/vendor/tinymce/tinymce" />
+      <path value="$PROJECT_DIR$/lib/vendor/composer" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/filesystem" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1f8AvIMcgguaaVs6ri49LJC5Ekg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/var" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/var" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1532" y="540" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595589816120">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="1532" y="540" key="#com.intellij.fileTypes.FileTypeChooser/0.23.3440.1417@0.23.3440.1417" timestamp="1595589816120" />
+  </component>
+</project>

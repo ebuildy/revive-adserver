@@ -5,7 +5,7 @@ phpinfo.php
 /plugins
 /should_not_exist
 /var/INSTALLED
-/var/UPGRADE
+#/var/UPGRADE
 /var/*.conf.php
 /var/*.log
 /var/*.log.rollback

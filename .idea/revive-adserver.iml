@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/plugins" isTestSource="false" packagePrefix="RV_Plugins\" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/RV" isTestSource="false" packagePrefix="RV\" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/figdice/asseteer" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/jeremykendall/php-domain-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/league/flysystem-ziparchive" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/maxmind-db/reader" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/sinergi/browser-detector" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/tinymce/tinymce" />
+      <excludeFolder url="file://$MODULE_DIR$/lib/vendor/wikimedia/composer-merge-plugin" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
